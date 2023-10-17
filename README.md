@@ -21,4 +21,4 @@ To implement ADFortressBreaker we used the following tools: <br>
 <a href= "https://github.com/PowerShellMafia/PowerSploit/blob/master/Privesc/PowerUp.ps1">-PowerUp.ps1</a> <br>
 <a href= "https://github.com/BloodHoundAD/BloodHound/blob/master/Collectors/SharpHound.ps1">-SharpHound.ps1</a><br> 
 <a href= "https://github.com/HarmJ0y/ASREPRoast/blob/master/ASREPRoast.ps1"> -ASREPRoast.ps1</a><br>
-<a href= "https://github.com/PowerShellMafia/PowerSploit/blob/master/Exfiltration/Invoke-Mimikatz.ps1">-Mimikatz.ps1</a><br> 
+<a href= "https://github.com/PowerShellMafia/PowerSploit/blob/master/Exfiltration/Invoke-Mimikatz.ps1">-Invoke-Mimikatz.ps1</a><br> 
