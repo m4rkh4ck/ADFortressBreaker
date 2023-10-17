@@ -8,3 +8,9 @@
 The script has been written to help the red team operator to execute the most common command in a penetration test without write any line of code.
 It's written to leave as few traces as possible, so all the module will be loaded directly in memory to avoid defender interception.
 
+## Usage
+Before launching AdFortressBreaker it is necessary to bypass the AMSI and execution policy.After that user will have to start a web server on port 8000 on his machine
+
+![Screenshot_2023-10-17_113632](https://github.com/m4rkh4ck/ADFortressBreaker/assets/92309458/dd2e644b-48ed-45bb-9555-af8be53b35e5)
+
+In the main menu the user can choose the activity to do simply by typing the corresponding number and pressing enter.
