@@ -9,6 +9,7 @@ The script has been written to help the red team operator to execute the most co
 It's written to leave as few traces as possible, so all the module will be loaded directly in memory to avoid defender interception.
 
 ## Usage
+Import module and then launch with Invoke-ADFortressBreaker.<br>
 Before launching AdFortressBreaker it is necessary to bypass the AMSI and execution policy. After that user will have to start a web server on port 8000 on his machine
 
 ![Screenshot_2023-10-17_113632](https://github.com/m4rkh4ck/ADFortressBreaker/assets/92309458/dd2e644b-48ed-45bb-9555-af8be53b35e5)
@@ -22,3 +23,7 @@ To implement ADFortressBreaker we used the following tools: <br>
 <a href= "https://github.com/BloodHoundAD/BloodHound/blob/master/Collectors/SharpHound.ps1">-SharpHound.ps1</a><br> 
 <a href= "https://github.com/HarmJ0y/ASREPRoast/blob/master/ASREPRoast.ps1"> -ASREPRoast.ps1</a><br>
 <a href= "https://github.com/PowerShellMafia/PowerSploit/blob/master/Exfiltration/Invoke-Mimikatz.ps1">-Invoke-Mimikatz.ps1</a><br> 
+
+## Authors
+<a href= "https://github.com/synackid">-Synackid</a><br>
+<a href= "https://github.com/m4rkh4ck">-M4rkh4ck</a>
