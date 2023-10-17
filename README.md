@@ -25,9 +25,9 @@ To implement ADFortressBreaker we used the following tools: <br>
 <a href= "https://github.com/PowerShellMafia/PowerSploit/blob/master/Exfiltration/Invoke-Mimikatz.ps1">-Invoke-Mimikatz.ps1</a><br> 
 
 ## Authors
-Github:
+Github:<br>
 <a href= "https://github.com/synackid">-Synackid</a><br>
 <a href= "https://github.com/m4rkh4ck">-M4rkh4ck</a><br><br>
-Linkedin:
+Linkedin:<br>
 <a href= "https://www.linkedin.com/in/antonio-migliuolo-723598207/">-Antonio</a><br>
 <a href= "https://www.linkedin.com/in/%F0%9F%92%BE-diego-marcaccio-06431970/">-Diego</a><br>
