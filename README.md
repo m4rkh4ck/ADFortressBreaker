@@ -19,5 +19,6 @@ In the main menu the user can choose the activity to do simply by typing the cor
 To implement ADFortressBreaker we used the following tools: <br>
 -Powerview.ps1 --> https://github.com/PowerShellMafia/PowerSploit/blob/master/Recon/PowerView.ps1<br>
 -PowerUp.ps1 --> https://github.com/PowerShellMafia/PowerSploit/blob/master/Privesc/PowerUp.ps1<br>
--SharpHound.ps1 --> <br>
+-SharpHound.ps1 --> <br> 
 -ASREPRoast.ps1 --> https://github.com/HarmJ0y/ASREPRoast/blob/master/ASREPRoast.ps1
+-Mimikatz.ps1 --> https://github.com/PowerShellMafia/PowerSploit/blob/master/Exfiltration/Invoke-Mimikatz.ps1
