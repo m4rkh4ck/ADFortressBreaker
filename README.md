@@ -16,7 +16,8 @@ Before launching AdFortressBreaker it is necessary to bypass the AMSI and execut
 In the main menu the user can choose the activity to do simply by typing the corresponding number and pressing enter.
 
 ## Credits
-To implement ADFortressBreaker we used the following tools:
+To implement ADFortressBreaker we used the following tools: <br>
 -Powerview.ps1 --> https://github.com/PowerShellMafia/PowerSploit/blob/master/Recon/PowerView.ps1
+-PowerUp.ps1 --> https://github.com/PowerShellMafia/PowerSploit/blob/master/Privesc/PowerUp.ps1
 
 
