@@ -31,7 +31,30 @@ Invoke-ADFortressBreaker
 After that the user have to start a web server on port 8000 on his machine.
 
 
-![Screenshot_2023-10-17_113632](https://github.com/m4rkh4ck/ADFortressBreaker/assets/92309458/dd2e644b-48ed-45bb-9555-af8be53b35e5)
+
+```
+           _____  ______         _                     ____                 _
+     /\   |  __ \|  ____|       | |                   |  _ \               | |
+    /  \  | |  | | |__ ___  _ __| |_ _ __ ___  ___ ___| |_) |_ __ ___  __ _| | _____ _ __
+   / /\ \ | |  | |  __/ _ \| '__| __| '__/ _ \/ __/ __|  _ <| '__/ _ \/ _ | |/ / _ \ '__|
+  / ____ \| |__| | | | (_) | |  | |_| | |  __/\__ \__ \ |_) | | |  __/ (_| |   <  __/ |
+ /_/    \_\_____/|_|  \___/|_|   \__|_|  \___||___/___/____/|_|  \___|\__,_|_|\_\___|_|
+
+
+1) Reconnaissance
+2) Enumeration
+3) PassTheHash
+4) Persistence
+5) Exit
+
+
+[*] Start a web server on your machine (exposed on port 8000) to download the .ps1 file
+
+[*} Example: python3 -m http.server
+
+[*] Set the web server ip address :
+
+```
 
 In the main menu the user can choose the activity to do simply by typing the corresponding number and pressing enter.
 
