@@ -67,5 +67,5 @@ To implement ADFortressBreaker we used the following tools: <br>
 - <a href= "https://github.com/PowerShellMafia/PowerSploit/blob/master/Exfiltration/Invoke-Mimikatz.ps1">Invoke-Mimikatz.ps1</a><br>
  
 
-<h1 align=center>License </h1>
+## License 
 This project is under the <a href="https://github.com/m4rkh4ck/ADFortressBreaker/blob/main/LICENSE">Commons Clause version of the MIT License license</a>. You can copy, modify, distribute and perform the work for whatever reason, excluding commercial purposes.
