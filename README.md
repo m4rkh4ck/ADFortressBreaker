@@ -6,7 +6,7 @@
 
 ## About ADFortressBreaker
 The script has been written to help Ethical Hackers to execute the most common command in a Penetration Test in an Active Directory environment without write any line of code.
-It's designed to leave as few traces as possible, so all the module will be loaded directly in memory to avoid defender interception.
+It's designed to leave as few traces as possible, so all the module will be loaded directly in memory to avoid defender interception. Remember that all the modules inside the Modules folder will activate your antivirus, so before use it you have to disable real time monitoring or give an exclusion to the path where you will use it.
 
 ## Usage
 Before launching AdFortressBreaker it is necessary to bypass powershell execution policy:
