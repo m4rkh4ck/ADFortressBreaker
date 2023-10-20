@@ -9,6 +9,7 @@ The script has been written to help Ethical Hackers to execute the most common c
 It's written to leave as few traces as possible, so all the module will be loaded directly in memory to avoid defender interception.
 
 ## Usage
+Before launching AdFortressBreaker it is necessary to bypass the AMSI control and powershell execution policy. After that user need to start a web server on port 8000 on his machine:
 ```
 . .\ADFortressBreaker.ps1
 ```
@@ -16,7 +17,7 @@ It's written to leave as few traces as possible, so all the module will be loade
 Invoke-ADFortressBreaker
 ```
 
-Before launching AdFortressBreaker it is necessary to bypass the AMSI control and powershell execution policy. After that user need to start a web server on port 8000 on his machine
+
 
 ![Screenshot_2023-10-17_113632](https://github.com/m4rkh4ck/ADFortressBreaker/assets/92309458/dd2e644b-48ed-45bb-9555-af8be53b35e5)
 
