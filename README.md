@@ -5,8 +5,8 @@
 <h1 align=center><br><img src= https://img.shields.io/badge/Language-Powershell-blue> <img src= https://img.shields.io/badge/Version-v1.0-green> <a href= "https://www.linkedin.com/in/%F0%9F%92%BE-diego-marcaccio-06431970/"><img src= https://img.shields.io/badge/Follow-m4rkh4ck-black> <a href= "https://www.linkedin.com/in/antonio-migliuolo-723598207/"><img src= https://img.shields.io/badge/Follow-synackid-white></h1>
 
 ## About ADFortressBreaker
-The script has been written to help Ethical Hackers to execute the most common command in a Penetration Test in Active Directory environment without write any line of code.
-It's written to leave as few traces as possible, so all the module will be loaded directly in memory to avoid defender interception.
+The script has been written to help Ethical Hackers to execute the most common command in a Penetration Test in an Active Directory environment without write any line of code.
+It's designed to leave as few traces as possible, so all the module will be loaded directly in memory to avoid defender interception.
 
 ## Usage
 Before launching AdFortressBreaker it is necessary to bypass powershell execution policy:
@@ -56,7 +56,7 @@ After that the user have to start a web server on port 8000 on his machine.
 
 ```
 
-In the main menu the user can choose the activity to do simply by typing the corresponding number and pressing enter.
+In the main menu the user can choose the activity to do by typing the corresponding number and pressing enter.
 
 ## Credits
 To implement ADFortressBreaker we used the following tools: <br>
