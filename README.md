@@ -22,7 +22,7 @@ S`eT-It`em ( 'V'+'aR' +  'IA' + ('blE:1'+'q2')  + ('uZ'+'x')  ) ( [TYpE](  "{1}{
 ```
 Invoke-ADFortressBreaker
 ```
-After that user need to start a web server on port 8000 on his machine:
+After that the user have to start a web server on port 8000 on his machine:
 <br>
 
 
