@@ -9,7 +9,9 @@ The script has been written to help Ethical Hackers to execute the most common c
 It's written to leave as few traces as possible, so all the module will be loaded directly in memory to avoid defender interception.
 
 ## Usage
-Import module and then launch it with
+```
+. .\ADFortressBreaker.ps1
+```
 ```
 Invoke-ADFortressBreaker
 ```
